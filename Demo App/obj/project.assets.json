@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\projects\\github-demo\\Demo App\\Demo App\\Demo App.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\projects\\github-demo\\Demo App\\Demo App.csproj",
       "projectName": "Demo App",
-      "projectPath": "C:\\Users\\hp\\projects\\github-demo\\Demo App\\Demo App\\Demo App.csproj",
+      "projectPath": "C:\\Users\\hp\\projects\\github-demo\\Demo App\\Demo App.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\projects\\github-demo\\Demo App\\Demo App\\obj\\",
+      "outputPath": "C:\\Users\\hp\\projects\\github-demo\\Demo App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

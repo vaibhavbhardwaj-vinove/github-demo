@@ -9,3 +9,14 @@ C:\Users\hp\projects\github-demo\Demo App\Demo App\obj\Debug\netcoreapp2.1\Demo 
 C:\Users\hp\projects\github-demo\Demo App\Demo App\obj\Debug\netcoreapp2.1\Demo App.AssemblyInfo.cs
 C:\Users\hp\projects\github-demo\Demo App\Demo App\obj\Debug\netcoreapp2.1\Demo App.dll
 C:\Users\hp\projects\github-demo\Demo App\Demo App\obj\Debug\netcoreapp2.1\Demo App.pdb
+C:\Users\hp\projects\github-demo\Demo App\bin\Debug\netcoreapp2.1\Demo App.deps.json
+C:\Users\hp\projects\github-demo\Demo App\bin\Debug\netcoreapp2.1\Demo App.runtimeconfig.json
+C:\Users\hp\projects\github-demo\Demo App\bin\Debug\netcoreapp2.1\Demo App.runtimeconfig.dev.json
+C:\Users\hp\projects\github-demo\Demo App\bin\Debug\netcoreapp2.1\Demo App.dll
+C:\Users\hp\projects\github-demo\Demo App\bin\Debug\netcoreapp2.1\Demo App.pdb
+C:\Users\hp\projects\github-demo\Demo App\obj\Debug\netcoreapp2.1\Demo App.csprojAssemblyReference.cache
+C:\Users\hp\projects\github-demo\Demo App\obj\Debug\netcoreapp2.1\Demo App.csproj.CoreCompileInputs.cache
+C:\Users\hp\projects\github-demo\Demo App\obj\Debug\netcoreapp2.1\Demo App.AssemblyInfoInputs.cache
+C:\Users\hp\projects\github-demo\Demo App\obj\Debug\netcoreapp2.1\Demo App.AssemblyInfo.cs
+C:\Users\hp\projects\github-demo\Demo App\obj\Debug\netcoreapp2.1\Demo App.dll
+C:\Users\hp\projects\github-demo\Demo App\obj\Debug\netcoreapp2.1\Demo App.pdb
